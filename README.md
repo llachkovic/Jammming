@@ -1,3 +1,21 @@
+Jammming React Web Application
+
+This portfolio project is the original work of its sole author, Lukas Lachkovic. Jammming is a React webapp I built, inspired by the Codecademy project assignment of the same name.
+
+Currently, the application supports logging in using Spotify 0Auth, querying tracks from the Spotify API and creating custom playlists that can be saved to your Spotify account.
+
+The project was bootstrapped with Create React App (CRA), additionally I used these technologies in my work:
+Typescript throughout my entire codebase
+React Router to define and map URL routes to the different steps of using the app
+Tailwind CSS for design and styling of the app
+
+Future TODOs:
+
+1. Implement responsive/mobile-first design
+2. More interaction with the Spotify API, e.g. fetching a title picture for each track
+
+Create React App documentation:
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

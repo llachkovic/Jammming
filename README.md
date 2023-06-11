@@ -12,7 +12,8 @@ Tailwind CSS for design and styling of the app
 Future TODOs:
 
 1. Implement responsive/mobile-first design
-2. More interaction with the Spotify API, e.g. fetching a title picture for each track
+2. Implement more user-friendly warnings/error messages
+3. More interaction with the Spotify API, e.g. fetching a title picture for each track
 
 Create React App documentation:
 
